@@ -2,4 +2,4 @@
 
 Modes of transfer.
 
-Add new Repository.
+Add new Repository and transfer payment.
